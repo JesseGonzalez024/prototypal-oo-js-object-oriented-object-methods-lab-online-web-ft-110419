@@ -3,5 +3,5 @@ function BoardMember(name, homestate, training){
   this.homestate = homestate
   this.training = training
   
-  BoardMember.prototype.veto() {}
+  BoardMember.prototype.veto() {return }
 
