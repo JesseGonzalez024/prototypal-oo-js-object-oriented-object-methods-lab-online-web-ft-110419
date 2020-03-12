@@ -10,7 +10,10 @@ function BoardMember(name, homestate, training){
   BoardMember.prototype.approve = function() {
     return "You can do that!"
   }
+  
   BoardMember.prototype.doCharity = function() {
-    return "You can do that!"
+    return "I like to help people."
   }
+  
+  
 }
