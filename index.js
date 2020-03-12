@@ -19,4 +19,7 @@ function BoardMember(name, homestate, training){
     return "You will see great things from Scuber."
   }
   
+  function sayHi(){
+    
+  }
 }
